@@ -26,3 +26,7 @@ This 3 day instructor-led course is designed for programmers and developers who 
 One of the following operating systems:
 * A computer and operating system capable of running an SSH client and VNC Viewer 
 
+## Access to the classroom ##
+https://classroom.github.com/classrooms/43735153-ethereum-blockchain-developer
+
+https://github.com/orgs/CNMBlockchain/people
